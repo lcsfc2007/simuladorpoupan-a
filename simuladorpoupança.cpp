@@ -1,5 +1,5 @@
 #include <stdio.h>
-#define MESES 64
+#define MESES 60
 #define JUROS 0.0018
 #define QUANTIDADEGUARDADAPORMES 3000
 //0.0018
